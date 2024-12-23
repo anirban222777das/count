@@ -1,6 +1,6 @@
 const countdownElement = document.getElementById('countdown');
 
-// Set the target launch date to January 20, 2025
+// Set the target launch date to January 1, 2025
 const launchDate = new Date("2025-01-01T00:00:00Z");
 
 function updateCountdown() {
